@@ -1,0 +1,65 @@
+
+
+
+
+<style type="text/css">
+
+.sidemenu{
+
+  margin-top: 40px;
+  padding-left: 10px;
+}
+
+.blank{ width:100px; margin-top: 100px;
+border-left: 2px solid #f7f7f7;
+height : 30px
+
+
+}
+.code {width:250px; height: 40px;
+  border-right: 5px solid red;
+  border-top: 2px solid #f7f7f7;
+  border-bottom: 2px solid #f7f7f7;
+font-size: 20px;
+text-align: justify;
+padding-top: 10px;
+padding-left: 12px;
+
+}
+
+
+.issues { height: 40px;
+padding-top: 20px;
+  border-left: 2px solid #f7f7f7;
+font-size: 20px;
+padding-bottom:20px;
+padding-left: 10px;
+color: blue;
+}
+.pr{font-size: 20px;
+  height: 40px; width:230px;
+border-left: 2px solid #f7f7f7;
+border-bottom: 2px solid #f7f7f7;
+padding-bottom:10px;
+padding-left: 10px;
+color: blue;
+
+}
+.pulse{font-size: 20px;
+  height: 40px;
+  border-left: 2px solid #f7f7f7;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  color: blue;
+
+}
+.graphs{height: 40px; font-size: 20px;
+border-left: 2px solid #f7f7f7;
+padding-left: 10px;
+color: blue;
+
+
+}
+
+</style>
